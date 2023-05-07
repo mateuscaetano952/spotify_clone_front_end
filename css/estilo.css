@@ -3,7 +3,7 @@
 */
 html, body, #home{
     height: 100%;
-    border: 1px solid red;
+    overflow-x: hidden;
 }
 
 body{
@@ -11,6 +11,7 @@ body{
                 url(../imagens/ruido.png),
                 linear-gradient(50deg, #ff4169, #7c26f8);
                 background-attachment: fixed;
+    font-family: Helvetica, Arial, sans-serif;
                 
 }
 /*
@@ -42,3 +43,131 @@ nav.navbar-trasparente{
     margin: auto;
     color: #fff;
 }
+
+.row .capa h1{
+    letter-spacing:-0.05em;
+    font-weight: bold;
+}
+
+.row .capa .btn-custom{
+    font-size: 1.3em;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    text-transform: uppercase;
+}
+
+.row .capa .btn-roxo{
+    background-color: #7c25f8;
+    color: #fff;
+}
+
+.row .capa .btn-roxo:hover{
+    background-color: #6d0ef3;
+    color: #fff;
+}
+
+.row .capa .btn-branco{
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.row .capa .btn-branco:hover{
+    color: #000000;
+    background: #fff;
+}
+
+.navbar .navbar-toggler {
+    color: #fff;
+
+  }
+
+/*Possiibilidades*/
+#possibilidades{
+    background: #fff;
+}
+
+.album{
+    margin: 25px 0px;
+}
+
+#possibilidades h1{
+    letter-spacing: -0.04em;
+    color: #7c25f8;
+    font-weight: 900;
+    font-size: 3em;
+}
+
+#possibilidades h2{
+    letter-spacing: -0.04em;
+    color: #7c25f8;
+    font-weight: 900;
+    font-size: 2em;
+}
+
+#possibilidades h3{
+    letter-spacing: -0.04em;
+    color: #7c25f8;
+    font-weight: 900;
+    font-size: 2em;
+}
+
+#acessibilidade h1{
+    letter-spacing: -0.04em;
+    color: #fff;
+    font-weight: 900;
+    font-size: 3em;
+}
+
+#acessibilidade h2{
+    letter-spacing: -0.04em;
+    color: #9bf0e1;
+    font-weight: 900;
+    font-size: 2em;
+}
+
+#acessibilidade p{
+    color: #fff;
+}
+
+.rotacao{
+    rotate: 30deg;
+    padding-left: 80px;
+}
+
+ 
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+    .capa h1{
+        font-size: 4em;
+    };
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { 
+    .capa h1{
+        font-size: 5em;
+    }
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+    .capa h1{
+        font-size: 6em;
+    }
+ }
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    .capa h1{
+        font-size: 7em;
+    }
+ }
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+    h1{
+        font-size: 7em;
+    }
+ }
