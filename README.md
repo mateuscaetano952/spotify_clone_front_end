@@ -17,7 +17,9 @@ A idea do projeto é clona a páhina inicial do spotify(O site antigo).
   - Normalize css
 
 ## Projeto
-O projeto é um arquivo.html com um estilo.css
+O projeto é um arquivo.html com um estilo.css e normalize.css
 
 ![screenshot](363393256_799758415141722_7444955334608093838_n.jpg)
 ![screenshot](364662026_799758298475067_784982033913215011_n.jpg)
+### Uso de medias queries
+![screenshot](364704745_799758395141724_382287838681680152_n.jpg)
