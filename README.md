@@ -1,7 +1,7 @@
 # Spotify main page clone (Front end)
 A idea do projeto é clona a páhina inicial do spotify(O site antigo). 
 
-![screenshot](363374165_799758361808394_6199466050500407148_n.jpg)
+![screenshot](1.jpg)
 
 ## Tecnologias
 - Css
