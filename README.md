@@ -19,5 +19,8 @@ A idea do projeto é clona a páhina inicial do spotify(O site antigo).
 ## Projeto
 O projeto é um arquivo.html com um estilo.css
 
-![screenshot](363374165_799758361808394_6199466050500407148_n.jpg)
-![screenshot](364662026_799758298475067_784982033913215011_n.jpg)
+![screenshot](1.jpg)
+![screenshot](2.jpg)
+![screenshot](3.jpg)
+![screenshot](4.jpg)
+
